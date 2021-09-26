@@ -6,7 +6,7 @@ The purpose of this analysis is to collect data on the target school district an
 
 ### Results
 
-- When 9th graders performance at Thomas High School was removed from calculation, a drastic increase in passing percentages across both subjects occured for the school
+- When 9th graders' performance at Thomas High School was removed from calculation, a drastic increase in passing percentages across both subjects occured for the school
 - There is an inverse relationship between spending per student and performance: as the budget decreases, performance gets better. This is most likely a lagging indicator as school funding can take years to make a significant impact on student development and is likely not indicative of causation. 
 - In relation to school size, there is a noticeable drop off in student performance at large schools as opposed to small and mid-sized schools. This is likely due to the degree of personalized assistance each student may have access to as well as cultural impacts including athletics and various extracurriculars that are more likely to be found at large schools
 - Charter schools consistently report better performance numbers than district schools
